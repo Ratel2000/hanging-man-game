@@ -1,3 +1,6 @@
+![Java](https://img.shields.io/badge/language-Java-orange.svg)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
 # Hangman Game
 
 Hangman is a simple console-based game implemented in Java. Try to guess the word by entering individual letters. Have fun!
